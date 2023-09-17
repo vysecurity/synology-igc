@@ -1,6 +1,6 @@
 {
   "id": "jim3ma.igc",
-  "url": "https://raw.githubusercontent.com/jim3ma/synology-igc/master/igc/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/vysecurity/synology-igc/main/igc/rpext-index.json",
   "info": {
     "name": "igc",
     "description": "Adds Intel(R) 2.5G Ethernet Linux Driver Support",
